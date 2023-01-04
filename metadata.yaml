@@ -1,4 +1,4 @@
 homepage: "https://inventus.online"
 versions:
-  - sha: sha_here
+  - sha: 8f02186b92be77cca39af611924d1732d46dc6c3
     changeNotes: Initial release of TikTok Events API Tag
